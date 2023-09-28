@@ -1,26 +1,17 @@
-# Invoice Generator Application
-
-This Node.js application generates PDF invoices from HTML templates using Express and Puppeteer.
-
-## Features
-
-- Generates PDF invoices from HTML templates.
-- Easy-to-use RESTful API for generating invoices.
-
 ### Step 1:
 
 ```bash
 pnpm install
 ```
 
-### Step 1:
+### Step 2:
 
 ```bash
-node index.mjs
+npm start
 ```
 
-### Step 1:
+### Step 3:
 
 ```bash
-http://localhost:3000
+http://localhost:4000
 ```
